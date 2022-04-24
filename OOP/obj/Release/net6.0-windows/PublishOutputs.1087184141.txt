@@ -1,0 +1,5 @@
+C:\Users\damtr\OneDrive\Desktop\Programs\OOP.exe
+C:\Users\damtr\OneDrive\Desktop\Programs\OOP.dll
+C:\Users\damtr\OneDrive\Desktop\Programs\OOP.deps.json
+C:\Users\damtr\OneDrive\Desktop\Programs\OOP.runtimeconfig.json
+C:\Users\damtr\OneDrive\Desktop\Programs\OOP.pdb
